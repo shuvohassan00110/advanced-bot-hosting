@@ -1,0 +1,10 @@
+# Core dependencies
+aiogram>=3.4.1
+aiohttp>=3.9.0
+
+# System monitoring
+psutil>=5.9.0
+
+# Additional for Render
+gunicorn>=21.2.0
+python-dotenv>=1.0.0
