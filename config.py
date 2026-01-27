@@ -9,7 +9,7 @@ from pathlib import Path
 # =============================================================================
 # BOT CONFIGURATION (Use environment variables for Render)
 # =============================================================================
-TOKEN = os.getenv("BOT_TOKEN", "8472500254:AAFYstP3ifectlNp2QJFXbkSoUzZPyD8k_s")
+TOKEN = os.getenv("BOT_TOKEN", "8472500254:AAEGhYazKm-lAOvRsS8w9kOZg5FNs-uZmoQ")
 OWNER_ID = int(os.getenv("OWNER_ID", "7857957075"))
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7857957075"))
 YOUR_USERNAME = os.getenv("YOUR_USERNAME", "@mrseller_00")
